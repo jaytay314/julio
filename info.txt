@@ -1,0 +1,75 @@
+
+Host Name:                 UC259363-TPL-A
+OS Name:                   Microsoft Windows 10 Enterprise
+OS Version:                10.0.17763 N/A Build 17763
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Member Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          C259363
+Registered Organization:   Thomson Reuters
+Product ID:                00329-00000-00003-AA379
+Original Install Date:     6/19/2019, 10:02:57 AM
+System Boot Time:          1/25/2021, 11:31:38 AM
+System Manufacturer:       Dell Inc.
+System Model:              Latitude 5591
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 158 Stepping 10 GenuineIntel ~2592 Mhz
+BIOS Version:              Dell Inc. 1.7.4, 4/26/2019
+Windows Directory:         C:\WINDOWS
+System Directory:          C:\WINDOWS\system32
+Boot Device:               \Device\HarddiskVolume2
+System Locale:             en-us;English (United States)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC-06:00) Central Time (US & Canada)
+Total Physical Memory:     16,177 MB
+Available Physical Memory: 7,417 MB
+Virtual Memory: Max Size:  20,529 MB
+Virtual Memory: Available: 7,620 MB
+Virtual Memory: In Use:    12,909 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    ten.thomsonreuters.com
+Logon Server:              \\C672DTGDCGC
+Hotfix(s):                 21 Hotfix(s) Installed.
+                           [01]: KB2693643
+                           [02]: KB4580979
+                           [03]: KB4480056
+                           [04]: KB4486153
+                           [05]: KB4493510
+                           [06]: KB4494174
+                           [07]: KB4499728
+                           [08]: KB4504369
+                           [09]: KB4509095
+                           [10]: KB4512577
+                           [11]: KB4521862
+                           [12]: KB4523204
+                           [13]: KB4549947
+                           [14]: KB4558997
+                           [15]: KB4562562
+                           [16]: KB4566424
+                           [17]: KB4570332
+                           [18]: KB4577667
+                           [19]: KB4580325
+                           [20]: KB4587735
+                           [21]: KB4577668
+Network Card(s):           4 NIC(s) Installed.
+                           [01]: Intel(R) Ethernet Connection (7) I219-LM
+                                 Connection Name: Ethernet
+                                 Status:          Media disconnected
+                           [02]: Intel(R) Wireless-AC 9560 160MHz
+                                 Connection Name: Wi-Fi
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     192.168.11.1
+                                 IP address(es)
+                                 [01]: 192.168.11.4
+                                 [02]: fe80::81f:71b1:6e1:c91
+                           [03]: Bluetooth Device (Personal Area Network)
+                                 Connection Name: Bluetooth Network Connection
+                                 Status:          Media disconnected
+                           [04]: Hyper-V Virtual Ethernet Adapter
+                                 Connection Name: vEthernet (Default Switch)
+                                 DHCP Enabled:    No
+                                 IP address(es)
+                                 [01]: 192.168.57.81
+                                 [02]: fe80::9ccc:9015:85ed:b555
+Hyper-V Requirements:      A hypervisor has been detected. Features required for Hyper-V will not be displayed.
